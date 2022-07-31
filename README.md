@@ -1,7 +1,5 @@
-wizzWifi
-* This module is for educational purpose only
-* developer is not responsible anything
-* THIS MODULE IS SPECIFICALLY DONE FOR PEN TESTERS
+
+
 
 usage 
 ```python
